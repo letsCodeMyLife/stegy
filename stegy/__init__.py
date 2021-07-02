@@ -1,2 +1,2 @@
-import encode
-import decode
+from .encode import *
+from .decode import *
